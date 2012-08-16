@@ -1,7 +1,11 @@
 The Dungeons of Ahski
 ======
+Current Version: 0.2.2
 
 This is my engine for an ASCII-based rpg. I'm calling it "The Dungeons of Ahski." Ahski is the fictional land all these infamous dungeons reside in.
+
+License
+======
 
 This file must also be redistributed to any derivative works.
 
